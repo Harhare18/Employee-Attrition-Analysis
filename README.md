@@ -33,17 +33,23 @@ page 2 :HR Analytics 2
 Following inference can be drawn from the Dashboard    
 KPI 1:
 - There are 2.6k male and 1.8k female employee.
+
 KPI 2:
 - There is higher count of working years of male employee as compared to female employee.
 - There are 28k perecent salary hike and 1089 male employee and 720 female employee in the education field of life sciences.
+
 KPI 3:
 - Reasearch and Developement deaprtment has the maximum performace ratings of employee with 5.5k of male employee and 3.7k of femle employee.
 - Sales Executive job role has the maximum count of employee with 582 of male employee and 396 of female employee.
+
 KPI 4:
 - There are 60% of male employee and 40% of female employee which are statisfied with a job.
+
 KPI 5:
 - there are 60.33% of male employee and 39.67% of female employee has the job involovement.
+
 KPI 6:
 - There are very less attrition of the employee such as 441 of the male employee and 270 of the female employee has attrition.
+
 KPI 7:
 - Research and Developement department has a tarining time of last year is 100%.
