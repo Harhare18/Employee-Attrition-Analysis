@@ -39,7 +39,7 @@ KPI 2:
 - There are 28k perecent salary hike and 1089 male employee and 720 female employee in the education field of life sciences.
 
 KPI 3:
-- Reasearch and Developement deaprtment has the maximum performace ratings of employee with 5.5k of male employee and 3.7k of femle employee.
+- Reasearch and Developement deaprtment has the maximum performance ratings of employee with 5.5k of male employee and 3.7k of femle employee.
 - Sales Executive job role has the maximum count of employee with 582 of male employee and 396 of female employee.
 
 KPI 4:
@@ -52,4 +52,4 @@ KPI 6:
 - There are very less attrition of the employee such as 441 of the male employee and 270 of the female employee has attrition.
 
 KPI 7:
-- Research and Developement department has a tarining time of last year is 100%.
+- Research and Developement department has a training time of last year is 100%.
